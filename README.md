@@ -1,6 +1,7 @@
 <!---
 ![](/Banners/Anafro-Readme-2025-Banner.png)
 
+# 👋 Welcome
 
 <p align="center">
 
@@ -31,7 +32,6 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,maven,gradle,python,php,laravel,go,nodejs,nuxt,express,prisma,vite,pug,html,css,sass,js,ts,vue,pinia,svelte,vscode,cs,nginx,unity,electron&perline=9" />
   </a>
 </p>
-# 👋 Welcome
 
 # Full-Stack Web Developer CV
 
