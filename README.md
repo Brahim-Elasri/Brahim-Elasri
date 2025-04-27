@@ -37,7 +37,7 @@
 
 ## 🚀 About Me
 
-I'm **brahim.elasri**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **MERN stack** and other modern technologies.  
+I'm **brahim.elasri**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **Node.js** and other modern technologies.  
 
 As the **Founder & CEO** of **codewithsadee**, I aim to empower developers through **comprehensive, step-by-step tutorials** on YouTube.
 
