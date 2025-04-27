@@ -33,15 +33,13 @@
 </p>
 # 👋 Welcome
 
+# Full-Stack Web Developer CV
+
 ## 🚀 About Me
 
 I'm **brahim.elasri**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **MERN stack** and other modern technologies.  
 
 As the **Founder & CEO** of **codewithsadee**, I aim to empower developers through **comprehensive, step-by-step tutorials** on YouTube.
-
-
-
-# Full-Stack Web Developer CV
 
 ## Compétences
 
@@ -146,17 +144,6 @@ Formation en ligne – 2021
 - **Sports** : Passionné de randonnée, football, et course à pied.
 
 ---
-
-
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React, TailwindCSS, TypeScript  
-- **Backend:** Node.js, Express, Appwrite  
-- **Database:** MongoDB
-- **Authentication:** Clerk, JWT
-- **AI Engineering:** Gemini API, OpenAI
-- **Other Tools:** Vite, VS Code, Git, Vercel
 
 ## 📢 Get Involved
 
