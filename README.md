@@ -135,10 +135,12 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 - Développement de fonctionnalités avancées pour améliorer l’expérience utilisateur sur mobile et desktop.
 
 ### **2018 | Plateforme E-commerce MLM – Cosmétique**  
-*Spdarte Cosmétique* – Mwrs 2018 - Mai 2018  
-- Développement de sites web et applications pour clients dans divers secteurs.
-- Utilisation de **WordPress** pour des projets de blogs et sites d’entreprises.
-- Rédaction de scripts d’automatisation pour améliorer l’efficacité du processus de développement.
+*Spdarte Cosmétique* – Mwrs 2018 - Mai 2018
+- Conception et déploiement d’un SaaS scalable (PHP, Node.js, SQL) pour la vérification massive d’e-mails, intégrant plus de 50 services majeurs (Google, Microsoft, Amazon…).
+- Architecture microservices (Express.js, Puppeteer) incluant des pipelines d’automatisation et de scraping web avec protections anti-bot avancées : rotation IP/User-Agent, gestion de proxies, CAPTCHA, et limitation de taux.
+- Développement d’une API REST sécurisée (JWT, OAuth2, HTTPS) et optimisation de la base de données avec monitoring en temps réel pour garantir performance, stabilité et résilience.
+- Création d’un tableau de bord responsive pour utilisateurs et administrateurs (JS, Bootstrap, Datatables) avec logs complets, suivi en temps réel, UX/UI optimisée, SEO et sécurité front-end renforcée.
+- Résultats : Vérification de >50 000 e-mails/heure, +1 000 utilisateurs dès le premier mois, et 99,9 % de disponibilité.
 
 ---
 
