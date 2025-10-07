@@ -157,14 +157,16 @@ Formation en ligne – 2021
 
 ## Langues
 
-- **Français** : Langue maternelle.
-- **Anglais** : Courant (niveau C1).
+- **Arabic** : Langue maternelle.
+- **Anglais** : Avancé (C1).
+- **Français** : courant (B2).
 
 ---
 
 ## Centres d'intérêt
 
-- **Technologies Open Source** : Contribuer à des projets open-source, notamment sur GitHub.
+- **Technologies Open Source** : Contribution à des projets open-source (GitHub).
+- **Recherche & Innovation** : Veille technologique et nouvelles solutions numériques.
 - **Sports** : Passionné de randonnée, football, et course à pied.
 
 ---
