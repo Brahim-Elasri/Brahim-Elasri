@@ -38,8 +38,12 @@
 # Full-Stack Web Developer CV
 
 ## 🚀 About Me
-
+<!--- 
 I'm **brahim.elasri**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **Node.js** and other modern technologies.  
+--->
+
+Je suis **Brahim Elasri**, **développeur Full-Stack** passionné par le developpement web, l’apprentissage et les dernières technologies web. Je me spécialise dans la création d’applications robustes et scalables, notamment avec **Node.js** et d’autres technologies modernes.
+
 
 As the **Founder & CEO** of **codewithsadee**, I aim to empower developers through **comprehensive, step-by-step tutorials** on YouTube.
 
