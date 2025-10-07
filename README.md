@@ -75,7 +75,7 @@ Je suis **Brahim Elasri**, **développeur Full-Stack Senior (+10 ans)** passionn
 - **Scripts d'automatisation** en Python/JavaScript pour l'optimisation des processus.
 
 ### **🔍 Web Scraping** – Expertise  
-- **Puppeteer, Playwright, Scrapy** : Extraction de données à partir de sites web dynamiques et contournement de protections anti-bot.
+- **Puppeteer, Selenium, Playwright, Scrapy** : Extraction de données à partir de sites web dynamiques et gestion de protections anti-bot.
 - **BrightData** : Utilisation d'outils avancés pour réaliser des projets de scraping à grande échelle.
 
 ### **🎨 UX/UI & Design Web** – Avancé  
