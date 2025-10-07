@@ -41,7 +41,7 @@
 <!--- 
 I'm **brahim.elasri**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **Node.js** and other modern technologies.  
 --->
-Je suis **Brahim Elasri**, **développeur Full-Stack Senior (+10 ans)** passionné par creation des applications robustes et scalables, l’apprentissage et les dernières technologies. Spécialisé Back-End, je suis expert en PHP, Python, Node.js, APIs, microservices, SQL/NoSQL, automatisation et scraping avancé, avec une solide expérience front-end (React, Vue.js, Angular, JS, HTML5, CSS3, UX/UI), ainsi qu’en DevOps (Docker, Kubernetes, CI/CD), sécurité et optimisation des performances. Capable de piloter des projets complexes.
+Je suis **Brahim Elasri**, **développeur Full-Stack Senior (+10 ans)** passionné par la creation des applications robustes et scalables, l’apprentissage et les dernières technologies. Spécialisé Back-End, je suis expert en PHP, Python, Node.js, APIs, microservices, SQL/NoSQL, automatisation et scraping avancé, avec une solide expérience front-end (React, Vue.js, Angular, JS, HTML5, CSS3, UX/UI), ainsi qu’en DevOps (Docker, Kubernetes, CI/CD), sécurité et optimisation des performances. Capable de piloter des projets complexes.
 
 
 ## Compétences
