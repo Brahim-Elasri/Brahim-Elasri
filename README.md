@@ -120,7 +120,6 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 
 ---
 
-
 ## PROJETS SÉLECTIONNÉS
 
 ### **Plateforme d’automatisation & Scraping – Python**  
@@ -129,14 +128,14 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 - Intégration d'API tierces pour automatiser le traitement des données avec **GraphQL** et **RESTful APIs**.
 - Mise en œuvre des tests unitaires et automatisés via **Jest** et **Selenium**.
 
-### **2019 | SaaS de vérification d’e-mails – Superfastchecker**  
-*Entreprise ABC* – Juin 2020 - Décembre 2022  
+### **SaaS de vérification d’e-mails**  
+*Superfastchecker (Projet personnel)* – Juin 2019 - juillet 2019  
 - Création d'une plateforme de e-commerce avec **Vue.js**, **Laravel** et **MySQL**.
 - Optimisation des performances du site avec **SEO**, gestion du trafic avec **Nginx**, et déploiement via **Docker**.
 - Développement de fonctionnalités avancées pour améliorer l’expérience utilisateur sur mobile et desktop.
 
-### **2018 | Plateforme E-commerce MLM – Spdarte Cosmétique**  
-*Entreprise DEF* – Juin 2018 - Mai 2020  
+### **2018 | Plateforme E-commerce MLM – Cosmétique**  
+*Spdarte Cosmétique* – Mwrs 2018 - Mai 2018  
 - Développement de sites web et applications pour clients dans divers secteurs.
 - Utilisation de **WordPress** pour des projets de blogs et sites d’entreprises.
 - Rédaction de scripts d’automatisation pour améliorer l’efficacité du processus de développement.
