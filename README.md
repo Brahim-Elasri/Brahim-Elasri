@@ -123,8 +123,8 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 
 ## PROJETS SÉLECTIONNÉS
 
-### **2025 | Plateforme d’automatisation & Scraping – Python (Projet personnel)**  
-*Entreprise XYZ* – Janvier 2023 - Présent  
+### **Plateforme d’automatisation & Scraping – Python**  
+*Projet personnel* – Janvier 2025 -   
 - Conception et développement d'une application de gestion des ressources humaines (HRMS) en utilisant **React**, **Node.js** et **MongoDB**.
 - Intégration d'API tierces pour automatiser le traitement des données avec **GraphQL** et **RESTful APIs**.
 - Mise en œuvre des tests unitaires et automatisés via **Jest** et **Selenium**.
@@ -155,11 +155,19 @@ Formation en ligne – 2021
 
 ---
 
+## Qualités
+- **Autonomie & Polyvalence**
+- **Leadership tech & Esprit d’équipe**
+- **Résolution de problèmes complexes**
+- **Innovation & Apprentissage continu**
+
+---
+
 ## Langues
 
-- **Arabic** : Langue maternelle.
+- **Arabe** : Langue maternelle.
 - **Anglais** : Avancé (C1).
-- **Français** : courant (B2).
+- **Français** : Courant (B2).
 
 ---
 
