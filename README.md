@@ -98,7 +98,6 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 - **Débogage complexe** : Résolution d'incidents techniques, optimisation des performances et réduction des coûts d'infrastructure.
 - **Analyse des erreurs et identification de solutions à long terme** pour améliorer les systèmes existants.
 ---
-
 ## Expérience Professionnelle
 
 ### **Développeur Full-Stack**  
@@ -114,6 +113,29 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 - Développement de fonctionnalités avancées pour améliorer l’expérience utilisateur sur mobile et desktop.
 
 ### **Développeur Junior**  
+*Entreprise DEF* – Juin 2018 - Mai 2020  
+- Développement de sites web et applications pour clients dans divers secteurs.
+- Utilisation de **WordPress** pour des projets de blogs et sites d’entreprises.
+- Rédaction de scripts d’automatisation pour améliorer l’efficacité du processus de développement.
+
+---
+
+
+## PROJETS SÉLECTIONNÉS
+
+### **2025 | Plateforme d’automatisation & Scraping – Python (Projet personnel)**  
+*Entreprise XYZ* – Janvier 2023 - Présent  
+- Conception et développement d'une application de gestion des ressources humaines (HRMS) en utilisant **React**, **Node.js** et **MongoDB**.
+- Intégration d'API tierces pour automatiser le traitement des données avec **GraphQL** et **RESTful APIs**.
+- Mise en œuvre des tests unitaires et automatisés via **Jest** et **Selenium**.
+
+### **2019 | SaaS de vérification d’e-mails – Superfastchecker**  
+*Entreprise ABC* – Juin 2020 - Décembre 2022  
+- Création d'une plateforme de e-commerce avec **Vue.js**, **Laravel** et **MySQL**.
+- Optimisation des performances du site avec **SEO**, gestion du trafic avec **Nginx**, et déploiement via **Docker**.
+- Développement de fonctionnalités avancées pour améliorer l’expérience utilisateur sur mobile et desktop.
+
+### **2018 | Plateforme E-commerce MLM – Spdarte Cosmétique**  
 *Entreprise DEF* – Juin 2018 - Mai 2020  
 - Développement de sites web et applications pour clients dans divers secteurs.
 - Utilisation de **WordPress** pour des projets de blogs et sites d’entreprises.
