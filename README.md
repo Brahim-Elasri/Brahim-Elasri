@@ -33,9 +33,7 @@
 --->
 # 👋 Welcome
 
-
-
-# Full-Stack Web Developer CV
+# développeur Full-Stack Senior (+10 ans)
 
 ## 🚀 About Me
 <!--- 
