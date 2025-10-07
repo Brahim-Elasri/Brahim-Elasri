@@ -180,9 +180,11 @@ Formation en ligne – 2021
 ---
 
 ## 📢 Get Involved
-
+<!---
 I'm always looking for **collaborators** and **contributors** to join me in creating **innovative projects**.  
 Feel free to **fork, star, and contribute** to my repositories. Let's build something amazing together! 🚀  
+--->
+Je suis toujours à la recherche de collaborateurs et de contributeurs pour me rejoindre dans la création de projets innovants. N'hésitez pas à forker, ajouter une étoile et contribuer à mes dépôts. Construisons ensemble quelque chose d'extraordinaire ! 🚀
 
 ## 📫 Let's Connect
 
