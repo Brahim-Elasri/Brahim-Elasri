@@ -165,9 +165,11 @@ Formation en ligne – 2021
 
 ## Langues
 
-- **Arabe** : Langue maternelle.
-- **Anglais** : Avancé (C1).
-- **Français** : Courant (B2).
+- **Arabe** : Langue maternelle (Total
+Maîtrise).
+- **Anglais** : B2 (Intermédiaire – Maîtrise
+de l'écrit et technique).
+- **Français** : B1 (Pré-intermédiaire).
 
 ---
 
@@ -189,7 +191,7 @@ Je suis toujours à la recherche de collaborateurs et de contributeurs pour me r
 ## 📫 Let's Connect
 
 - 📩 **Email:** [brahim.elasri.pro@gmail.com](mailto:brahim.elasri.pro@gmail.com)  
-- 🔗 **LinkedIn:** [brahim.elasri](https://www.linkedin.com/)  
+- 🔗 **LinkedIn:** [brahimel(https://www.linkedin.com/)  
 - 🐦 **X:** [@brahim.elasri_](https://twitter.com/)
 - 📷 **Instagram:** [](https://instagram.com/brahim.elasri)
 
