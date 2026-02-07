@@ -191,7 +191,7 @@ Je suis toujours à la recherche de collaborateurs et de contributeurs pour me r
 ## 📫 Let's Connect
 
 - 📩 **Email:** [brahim.elasri.pro@gmail.com](mailto:brahim.elasri.pro@gmail.com)  
-- 🔗 **LinkedIn:** [brahimel(https://www.linkedin.com/)  
+- 🔗 **LinkedIn:** [(https://www.linkedin.com/brahimel)  
 - 🐦 **X:** [@brahim.elasri_](https://twitter.com/)
 - 📷 **Instagram:** [](https://instagram.com/brahim.elasri)
 
